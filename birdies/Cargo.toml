@@ -1,0 +1,6 @@
+cargo-features = ["edition2021"]
+
+[workspace]
+members = [
+    "libs/*"
+]
