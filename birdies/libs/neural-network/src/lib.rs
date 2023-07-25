@@ -1,6 +1,5 @@
-use std::iter::once;
-
 use rand::{Rng, RngCore};
+use std::iter::once;
 
 pub struct Neuron {
     weights: Vec<f32>,
